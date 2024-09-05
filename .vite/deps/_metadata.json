@@ -1,0 +1,61 @@
+{
+  "hash": "34bc1bcd",
+  "configHash": "82fba43b",
+  "lockfileHash": "c662362f",
+  "browserHash": "42e47b13",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a9da8b03",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "7b83b007",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "3590c410",
+      "needsInterop": false
+    },
+    "miragejs": {
+      "src": "../../node_modules/miragejs/dist/mirage-esm.js",
+      "file": "miragejs.js",
+      "fileHash": "80276277",
+      "needsInterop": false
+    },
+    "react-icons/bs": {
+      "src": "../../node_modules/react-icons/bs/index.mjs",
+      "file": "react-icons_bs.js",
+      "fileHash": "207c448c",
+      "needsInterop": false
+    },
+    "firebase/app": {
+      "src": "../../node_modules/firebase/app/dist/esm/index.esm.js",
+      "file": "firebase_app.js",
+      "fileHash": "7e976428",
+      "needsInterop": false
+    },
+    "firebase/firestore/lite": {
+      "src": "../../node_modules/firebase/firestore/lite/dist/esm/index.esm.js",
+      "file": "firebase_firestore_lite.js",
+      "fileHash": "84319d03",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RHPDEHY5": {
+      "file": "chunk-RHPDEHY5.js"
+    },
+    "chunk-UG3I2WU7": {
+      "file": "chunk-UG3I2WU7.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
